@@ -12,3 +12,7 @@
 * git log –oneline
 * git diff
 * git reset --hard
+
+_курсивчик_
+***ЖИРНЫЙ КУРСИВ***
+~~зачеркнутый~~
